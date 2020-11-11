@@ -14,4 +14,5 @@ parametros:
 --headless tudo é feito sem que o navegador seja aberto, você sera orientado pela legenda no terminal
 
 obs: somente sera possivel usar o BOT em sistemas linux e apenas com o firefox instalado!
-você precisará do geckodriver e do selenium e python3
+você precisará do geckodriver que já esta disponivel no repositorio e do selenium e python3
+caso não tenha o geckdriver faça o download e copie ele para /usr/local/bin
