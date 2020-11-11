@@ -4,7 +4,7 @@ um bot para diversas automações
 
 O BOT foi lançado 10/11/2020 ainda não esta completo e nem possui todas as funcionalidades, o bot é operante no unico site que ele possui agora (ganhar no insta, um site que lhe paga uma baixa porcentagem do dinheiro de seus patrocinadores para que você siga os tais patrocinadores no instagram ou curta suas publicações) com exceção da funcionalidade de curtir! provavelmente amanhã a noite ela já estará inclusa no bot tambem.
 Modo de usar:
-python BOT.py {opções de uso: -f -i} $seu_email_do_face_ou_insta $respactiva_senha {opções de uso: --gni} $seu_email_do_ganhar_no_insta $respactiva_senha {opções de uso: --headless -head}
+python BOT.py {opções de uso: -f -i} $seu_email_do_face_ou_insta $respectiva_senha {opções de uso: --gni} $seu_email_do_ganhar_no_insta $respectiva_senha {opções de uso: --headless -head}
 
 parametros:
 -f faz com que o BOT acesse seu insta pelo face
