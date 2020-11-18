@@ -12,5 +12,5 @@ parametros:
 
 obs: somente sera possivel usar o BOT em sistemas linux e apenas com o firefox instalado!
 você precisará do geckodriver que já esta disponivel no repositorio e do selenium e python3
-caso não tenha nenhum dos requisitos, execute o install.sh
+caso não tenha todos os requisitos execute o install.sh
 
