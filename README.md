@@ -1,7 +1,7 @@
 # BOT
 o bot é operante no site www.ganharnoinsta.com
 Modo de usar:
-python BOT.py {opções de uso: -f -i} $seu_email_do_face_ou_insta $respectiva_senha {opções de uso: --gni} $seu_email_do_ganhar_no_insta $respectiva_senha {opções de uso: --headless -head}
+python3 BOT_MASTER.py {opções de uso: -f -i} $seu_email_do_face_ou_insta $respectiva_senha {opções de uso: --gni} $seu_email_do_ganhar_no_insta $respectiva_senha {opções de uso: --headless -head}
 
 parametros:
 -f faz com que o BOT acesse seu insta pelo face
